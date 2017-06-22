@@ -1,0 +1,15 @@
+{
+  "name": "mySweeper",
+  "version": "1.0.0",
+  "description": "A clone of a popular game that is included with Windows",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:HosfordDotMe/mySweeper.git",
+  "author": "Eric Hosford <eric.hosford@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
