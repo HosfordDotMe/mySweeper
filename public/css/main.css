@@ -14,11 +14,12 @@ body {
 }
 
 .game {
-  /*display: flex;*/
-  width: 480px;
-  height: 480px;
+  display: block;*/
+  /*width: 480px;*/
+  /*height: 480px;*/
   background: #ECECEC;
   border-radius: 10px;
+  border: 2px black solid;
 }
 
 .game .header {
@@ -30,5 +31,6 @@ body {
   text-align: center;
   border-radius: 10px 10px 0 0;
   /*line-height: 40px;*/
-  /*vertical-align: middle;*/
+  vertical-align: center;
+  margin-top: -22px;
 }
